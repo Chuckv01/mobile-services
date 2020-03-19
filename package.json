@@ -1,5 +1,5 @@
 {
-    "name": "adobe-mobile-services",
+    "name": "adobe-mobile-services-capacitor",
     "description": "Native Mobile SDKs, dev tools and example apps.",
     "version": "4.19.1",
     "homepage": "https://github.com/Adobe-Marketing-Cloud/mobile-services/blob/master/sdks/Cordova/README.md",
@@ -11,7 +11,7 @@
         "url": "https://github.com/Adobe-Marketing-Cloud/mobile-services/issues"
     },
     "cordova": {
-        "id": "adobe-mobile-services",
+        "id": "adobe-mobile-services-capacitor",
         "platforms": [
             "ios",
             "android"
