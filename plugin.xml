@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
            id="adobe-mobile-services-capacitor"
-      version="4.19.2">
+      version="4.19.3">
     <name>ADBMobile</name>
     <description>Adobe Mobile Services Plugin</description>
 
@@ -23,7 +23,7 @@
 		 <header-file src="sdks/Cordova/ADBMobile/iOS/ADBMobile_PhoneGap.h" />
 		 <source-file src="sdks/Cordova/ADBMobile/iOS/ADBMobile_PhoneGap.m" />
 		 <header-file src="sdks/iOS/AdobeMobileLibrary/ADBMobile.h" />
-		 <source-file src="sdks/iOS/AdobeMobileLibrary/AdobeMobileLibrary.a" framework="true" />
+		 <source-file src="sdks/iOS/AdobeMobileLibrary/libAdobeMobileLibrary.a" framework="true"/>
 		 <framework src="libsqlite3.dylib" />
 		 <framework src="SystemConfiguration.framework" />
 	 </platform>
